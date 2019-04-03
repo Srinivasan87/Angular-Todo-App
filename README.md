@@ -25,3 +25,24 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+https://github.com/Srinivasan87/Angular-Contact-App
+https://github.com/gopinav
+https://github.com/bradtraversy/angular-crash-todolist
+https://github.com/joeeames
+
+
+https://blog.angularindepth.com/
+
+Angular Architecture:
+https://github.com/danwahlin
+
+Angular Getting Started:
+Angular Routing:
+Angular Reactive Forms:
+Angular NgRx:
+https://github.com/DeborahK
+
+Angular Best Practices:
+https://jcoop.io/angular-practice-exercises/
+https://github.com/jmcooper
